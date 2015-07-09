@@ -1,2 +1,3 @@
 # hello-world
-It's an example project.
+
+I'm Daniel and I try to do this tutorial.
